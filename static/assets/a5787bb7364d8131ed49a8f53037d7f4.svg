@@ -8,7 +8,7 @@
     </defs>
     <g id="Sound/General/Delete" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
-            <use xlink:href="#path-1"></use>
+            <use xlink:href=".#path-1"></use>
         </mask>
         <g id="Trash-Can"></g>
         <g id="White" mask="url(#mask-2)" fill="#FFFFFF">

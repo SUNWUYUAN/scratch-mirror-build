@@ -49,16 +49,16 @@
         <g id="Illustration">
             <g id="Group-13">
                 <mask id="mask-2" fill="white">
-                    <use xlink:href="#path-1"></use>
+                    <use xlink:href=".#path-1"></use>
                 </mask>
-                <use id="Mask-3" fill="#4D97FF" xlink:href="#path-1"></use>
+                <use id="Mask-3" fill="#4D97FF" xlink:href=".#path-1"></use>
                 <g mask="url(#mask-2)">
                     <g transform="translate(-9.500000, 62.859417)">
                         <g id="Cloud" stroke-width="1" fill="none" transform="translate(51.722222, 130.361111) rotate(-3.000000) translate(-51.722222, -130.361111) translate(2.111111, 101.333333)">
                             <mask id="mask-4" fill="white">
-                                <use xlink:href="#path-3"></use>
+                                <use xlink:href=".#path-3"></use>
                             </mask>
-                            <use id="Path-5" fill="#FFFFFF" xlink:href="#path-3"></use>
+                            <use id="Path-5" fill="#FFFFFF" xlink:href=".#path-3"></use>
                             <path d="M58.3345666,-0.133313535 C66.4536733,-0.133313535 69.492213,11.2364445 67.5500433,13.7663761 C65.6078735,16.2963078 74.3295443,16.7063595 73.9906772,23.1723297 C73.65181,29.6382999 53.6246595,32.5760762 53.6246595,37.3349559 C53.6246595,42.0938356 91.3911918,41.0484955 98.1290565,36.2680658 C104.866921,31.4876361 109.256861,18.3192061 103.692959,14.0670111 C98.1290565,9.81481618 94.2273371,19.2728469 88.9272304,11.4553196 C83.6271236,3.63779239 86.0821187,-3.04523495 75.3646815,-3.04523495 C64.6472443,-3.04523495 50.2154598,-0.133313535 58.3345666,-0.133313535 Z" id="Path-31" fill-opacity="0.15" fill="#4D97FF" mask="url(#mask-4)"></path>
                         </g>
                         <path d="M18.4933333,265.832333 L406.388889,265.832333 L406.388889,112.742852 C322.410902,98.1026983 247.751521,95.1017239 182.410746,103.739929 C117.069971,112.378134 62.4308333,130.628614 18.4933333,158.49137 C6.16444444,184.239062 -9.00020799e-14,203.525779 -9.00020799e-14,216.35152 C-9.00020799e-14,229.177262 6.16444444,245.670866 18.4933333,265.832333 Z" id="Hill" fill="#0EBD8C"></path>
@@ -67,9 +67,9 @@
                         </g>
                         <g id="Cloud" stroke-width="1" fill="none" transform="translate(146.194444, 34.251694) rotate(-5.000000) translate(-146.194444, -34.251694) translate(97.111111, 4.696138)">
                             <mask id="mask-6" fill="white">
-                                <use xlink:href="#path-5"></use>
+                                <use xlink:href=".#path-5"></use>
                             </mask>
-                            <use id="Path-22" fill="#FFFFFF" xlink:href="#path-5"></use>
+                            <use id="Path-22" fill="#FFFFFF" xlink:href=".#path-5"></use>
                             <path d="M-3.37597177,57.7133532 C-1.76487174,56.7512131 2.33554419,55.7549036 8.92527601,54.7244248 C18.8098737,53.1787065 23.3843627,55.9837144 35.9494794,54.9145742 C48.5145961,53.845434 66.2592667,48.5450454 76.9066792,44.2101952 C87.5540916,39.875345 94.8985964,44.0103053 98.8681071,48.817192 C102.837618,53.6240787 100.201959,50.8264985 91.4723861,55.4437768 C82.742813,60.061055 72.4900092,55.7606949 66.5445532,54.8642463 C60.5990971,53.9677977 87.5571553,57.0486324 39.3332085,59.9501514 C7.18391068,61.8844974 -7.05248275,61.138898 -3.37597177,57.7133532 Z" id="Path-26" fill-opacity="0.5" fill="#4D97FF" mask="url(#mask-6)"></path>
                             <path d="M31.8331089,30.6744174 C33.3365316,34.603085 34.821975,36.8058835 36.289439,37.2828126 C38.3611692,37.9561296 40.5036749,38.1683518 44.797373,36.1921699 C47.2843317,35.0475428 49.727122,36.1995152 45.6703639,38.9170538 C39.3929454,43.122167 33.942986,45.2735175 23.7540247,44.3820989 C18.492803,43.9218016 21.1858311,39.3525744 31.8331089,30.6744174 Z" id="Path-28" fill-opacity="0.15" fill="#4D97FF" mask="url(#mask-6)"></path>
                             <path d="M85.0112527,12.6088211 C86.0296555,13.9885275 78.7270474,-0.974740097 72.8057624,5.51441434 C71.8040823,6.61215854 73.2152617,7.79782534 73.7228834,11.6212168 C74.1596363,14.9108266 69.4949659,24.6521779 64.1046864,22.3795017 C61.3843126,21.2325243 56.9294796,21.664876 57.8960135,23.2259679 C58.6669086,24.4710749 61.1324177,24.6514085 62.0139032,27.6222598 C62.6719954,29.8402133 63.0991063,33.8733348 58.0104118,38.8344809 C55.6823033,41.1042352 71.6498396,34.7030892 76.3328082,33.1677282 C83.7002706,30.7522276 87.6821701,26.4796121 91.5849935,23.5207592 C94.1868757,21.5481906 92.8781742,18.4223546 87.6588892,14.1432511 C85.2148629,12.2004936 84.3323174,11.6890169 85.0112527,12.6088211 Z" id="Path-29" fill-opacity="0.15" fill="#4D97FF" mask="url(#mask-6)"></path>
@@ -101,9 +101,9 @@
                                 <g id="Screen" transform="translate(6.475200, 10.579200)">
                                     <g id="UI" transform="translate(0.000000, 0.091200)">
                                         <mask id="mask-8" fill="white">
-                                            <use xlink:href="#path-7"></use>
+                                            <use xlink:href=".#path-7"></use>
                                         </mask>
-                                        <use id="Screen" fill="#D8D8D8" xlink:href="#path-7"></use>
+                                        <use id="Screen" fill="#D8D8D8" xlink:href=".#path-7"></use>
                                         <g id="Group" mask="url(#mask-8)">
                                             <g transform="translate(-0.091200, -0.091200)" id="UI/ChomeOS-Lobby">
                                                 <rect id="Rectangle" fill="#E9F1FC" x="0" y="0" width="175.104" height="106.5216"></rect>
@@ -113,7 +113,7 @@
                                                             <path d="M53.5430956,0.25 C53.7785835,0.25 53.9917295,0.345991829 54.1461904,0.500258826 C54.3009974,0.654871451 54.39704,0.868135957 54.39704,1.1025584 L54.39704,1.1025584 L54.39704,25.79672 L0.25,25.79672 L0.25,1.1025584 C0.25,0.866636943 0.344734506,0.652968881 0.499331596,0.498565889 C0.653361482,0.344729388 0.866647457,0.25 1.10394441,0.25 L1.10394441,0.25 Z" stroke-opacity="0.1" stroke="#000000" stroke-width="0.5" fill="#FCFCFF"></path>
                                                             <g id="sprite1" transform="translate(1.313280, 3.210240)">
                                                                 <g id="sprite-tile">
-                                                                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                                                                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href=".#path-9"></use>
                                                                     <rect stroke="#4C97FF" stroke-width="0.5" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.25" y="0.83368" width="9.42256" height="9.42256" rx="1.10592"></rect>
                                                                 </g>
                                                                 <path d="M0.14592,7.44192 L9.77664,7.44192 L9.77664,9.2544 C9.77664,9.86518275 9.28150275,10.36032 8.67072,10.36032 L1.25184,10.36032 C0.641057249,10.36032 0.14592,9.86518275 0.14592,9.2544 L0.14592,7.44192 L0.14592,7.44192 Z" id="Rectangle-18" fill="#4C97FF"></path>
@@ -240,8 +240,8 @@
                                                             </g>
                                                         </g>
                                                         <g id="Oval-5" transform="translate(47.715840, 29.694720)">
-                                                            <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
-                                                            <use fill="#4C97FF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                                                            <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href=".#path-11"></use>
+                                                            <use fill="#4C97FF" fill-rule="evenodd" xlink:href=".#path-11"></use>
                                                         </g>
                                                     </g>
                                                     <g id="Sounds-Tab" transform="translate(27.432960, 7.806720)">
@@ -260,9 +260,9 @@
                                                         </g>
                                                         <g id="Blocks-Menu" transform="translate(7.587840, 0.802560)">
                                                             <mask id="mask-14" fill="white">
-                                                                <use xlink:href="#path-13"></use>
+                                                                <use xlink:href=".#path-13"></use>
                                                             </mask>
-                                                            <use id="palette-container" stroke="#DBDBDB" stroke-width="0.5" fill="#FFFFFF" xlink:href="#path-13"></use>
+                                                            <use id="palette-container" stroke="#DBDBDB" stroke-width="0.5" fill="#FFFFFF" xlink:href=".#path-13"></use>
                                                             <rect id="Scroll-bar" fill-opacity="0.15" fill="#000000" mask="url(#mask-14)" x="34.14528" y="1.16736" width="1" height="9.64496663" rx="0.27648"></rect>
                                                             <g id="Motion-Blocks" mask="url(#mask-14)">
                                                                 <g transform="translate(1.678080, 5.399040)">
@@ -334,13 +334,13 @@
                                                         </g>
                                                         <g id="Category-Menu">
                                                             <mask id="mask-16" fill="white">
-                                                                <use xlink:href="#path-15"></use>
+                                                                <use xlink:href=".#path-15"></use>
                                                             </mask>
-                                                            <use id="category-menu-container" stroke="#DBDBDB" stroke-width="0.5" fill="#FFFFFF" xlink:href="#path-15"></use>
+                                                            <use id="category-menu-container" stroke="#DBDBDB" stroke-width="0.5" fill="#FFFFFF" xlink:href=".#path-15"></use>
                                                             <g id="Add-Extension-button" mask="url(#mask-16)">
                                                                 <g transform="translate(0.000000, 80.839680)" id="Rectangle-26">
-                                                                    <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
-                                                                    <use fill="#4C97FF" fill-rule="evenodd" xlink:href="#path-17"></use>
+                                                                    <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href=".#path-17"></use>
+                                                                    <use fill="#4C97FF" fill-rule="evenodd" xlink:href=".#path-17"></use>
                                                                 </g>
                                                             </g>
                                                             <rect id="Selection-State" fill-opacity="0.2" fill="#4C97FF" mask="url(#mask-16)" x="0" y="0.87552" width="7.58784" height="7.58784"></rect>
@@ -404,15 +404,15 @@
                                                             </g>
                                                             <g id="backdrop" transform="translate(0.583680, 0.729600)">
                                                                 <mask id="mask-20" fill="white">
-                                                                    <use xlink:href="#path-19"></use>
+                                                                    <use xlink:href=".#path-19"></use>
                                                                 </mask>
                                                                 <rect stroke-opacity="0.1" stroke="#000000" stroke-width="0.5" x="0.25" y="0.25" width="8.83888" height="6.37445333" rx="0.55296"></rect>
                                                                 <mask id="mask-22" fill="white">
-                                                                    <use xlink:href="#path-21"></use>
+                                                                    <use xlink:href=".#path-21"></use>
                                                                 </mask>
                                                                 <g id="Mask">
-                                                                    <use fill="#FFAB19" fill-rule="evenodd" xlink:href="#path-21"></use>
-                                                                    <use fill="black" fill-opacity="1" filter="url(#filter-23)" xlink:href="#path-21"></use>
+                                                                    <use fill="#FFAB19" fill-rule="evenodd" xlink:href=".#path-21"></use>
+                                                                    <use fill="black" fill-opacity="1" filter="url(#filter-23)" xlink:href=".#path-21"></use>
                                                                 </g>
                                                             </g>
                                                         </g>
@@ -421,8 +421,8 @@
                                                             <rect id="Rectangle" fill-opacity="0.15" fill="#000000" x="2.26176" y="2.33472" width="6.05568" height="1.75104" rx="0.82944"></rect>
                                                         </g>
                                                         <g id="Oval-5" transform="translate(2.334720, 29.694720)">
-                                                            <use fill="black" fill-opacity="1" filter="url(#filter-25)" xlink:href="#path-24"></use>
-                                                            <use fill="#4C97FF" fill-rule="evenodd" xlink:href="#path-24"></use>
+                                                            <use fill="black" fill-opacity="1" filter="url(#filter-25)" xlink:href=".#path-24"></use>
+                                                            <use fill="#4C97FF" fill-rule="evenodd" xlink:href=".#path-24"></use>
                                                         </g>
                                                     </g>
                                                     <g id="Green-Flag-/-Stop" transform="translate(109.658880, 8.682240)" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5">
@@ -452,14 +452,14 @@
                                                         <path d="M64.55183,0.25 C64.7907035,0.25 65.0071744,0.344547621 65.1636036,0.498993642 C65.3183331,0.651761499 65.414,0.863113044 65.414,1.09806993 L65.414,1.09806993 L65.414,48.1681498 C65.414,48.402701 65.3189036,48.6150356 65.1635468,48.7684228 C65.0079776,48.9220197 64.7923081,49.0162198 64.55183,49.0162198 L64.55183,49.0162198 L1.11217005,49.0162198 C0.873296461,49.0162198 0.65682563,48.9216721 0.500396395,48.7672261 C0.345666873,48.6144583 0.25,48.4031067 0.25,48.1681498 L0.25,48.1681498 L0.25,1.09806993 C0.25,0.863518772 0.345096408,0.651184134 0.500453239,0.497796921 C0.656022394,0.344200076 0.871691896,0.25 1.11217005,0.25 L1.11217005,0.25 Z" id="stage-container" stroke-opacity="0.15" stroke="#000000" stroke-width="0.5" fill="#FFFFFF"></path>
                                                         <g id="backdrop">
                                                             <mask id="mask-27" fill="white">
-                                                                <use xlink:href="#path-26"></use>
+                                                                <use xlink:href=".#path-26"></use>
                                                             </mask>
                                                             <g id="stage-container"></g>
                                                             <g mask="url(#mask-27)">
                                                                 <mask id="mask-29" fill="white">
-                                                                    <use xlink:href="#path-28"></use>
+                                                                    <use xlink:href=".#path-28"></use>
                                                                 </mask>
-                                                                <use id="Mask" fill="#FFBF00" xlink:href="#path-28"></use>
+                                                                <use id="Mask" fill="#FFBF00" xlink:href=".#path-28"></use>
                                                             </g>
                                                         </g>
                                                         <path d="M64.55183,0.25 C64.7907035,0.25 65.0071744,0.344547621 65.1636036,0.498993642 C65.3183331,0.651761499 65.414,0.863113044 65.414,1.09806993 L65.414,1.09806993 L65.414,48.1681498 C65.414,48.402701 65.3189036,48.6150356 65.1635468,48.7684228 C65.0079776,48.9220197 64.7923081,49.0162198 64.55183,49.0162198 L64.55183,49.0162198 L1.11217005,49.0162198 C0.873296461,49.0162198 0.65682563,48.9216721 0.500396395,48.7672261 C0.345666873,48.6144583 0.25,48.4031067 0.25,48.1681498 L0.25,48.1681498 L0.25,1.09806993 C0.25,0.863518772 0.345096408,0.651184134 0.500453239,0.497796921 C0.656022394,0.344200076 0.871691896,0.25 1.11217005,0.25 L1.11217005,0.25 Z" id="stage-border" stroke-opacity="0.15" stroke="#000000" stroke-width="0.5"></path>
@@ -505,9 +505,9 @@
             </g>
             <g id="Cloud" transform="translate(229.055556, 26.388889)">
                 <mask id="mask-31" fill="white">
-                    <use xlink:href="#path-30"></use>
+                    <use xlink:href=".#path-30"></use>
                 </mask>
-                <use id="Path-5" fill="#FFFFFF" xlink:href="#path-30"></use>
+                <use id="Path-5" fill="#FFFFFF" xlink:href=".#path-30"></use>
                 <path d="M113.298354,10.5588537 C116.747299,7.22940059 115.360893,7.22940059 109.139135,10.5588537 C107.324344,11.5300042 101.398507,22.6180363 94.8707659,21.4400646 C82.5723479,19.2207385 79.0870671,32.9547326 70.4002873,32.9547326 C67.6698093,32.9547326 52.6326307,30.7080135 56.2504826,33.8729034 C57.6753018,35.1193324 61.0150873,33.5884956 65.490717,39.5926721 C69.6737327,45.2042989 78.0074592,48.7231008 85.4176709,44.5651428 C88.8726411,42.6265178 99.8265373,46.0831561 106.249614,47.9985565 C114.009443,50.3125848 114.972617,49.1681136 109.139135,44.5651428 L91.9584221,41.9583947 L112.144994,23.0359533 L113.298354,10.5588537 Z" id="Path-24" fill-opacity="0.15" fill="#4D97FF" mask="url(#mask-31)"></path>
                 <path d="M27.385883,37.6115881 C26.0803752,47.1837658 27.6857268,52.9926818 32.2019377,55.0383361 C38.9762541,58.1068176 35.6316789,58.753634 31.4485246,58.1051477 C27.2653703,57.4566613 23.0244646,57.6786218 21.6885271,58.1051477 C20.7979021,58.3894982 16.2043645,57.8880578 7.90791429,56.6008264 C9.70549242,58.2622131 12.0044182,58.7636535 14.8046916,58.1051477 C17.6049651,57.4466418 21.7986955,50.6154553 27.385883,37.6115881 Z" id="Path-23" fill-opacity="0.15" fill="#4D97FF" mask="url(#mask-31)"></path>
                 <path d="M33.8644841,30.8194592 C39.683631,28.1463103 44.7089361,27.8470232 48.9403996,29.9215979 C50.7717473,30.8194592 49.8361727,28.4126269 47.8443743,27.460133 C44.411989,25.818739 43.7047771,21.3980383 44.5981853,16.5403747 C45.4600626,11.8541515 41.3545012,21.1974307 39.4413274,21.6508923 C38.1658782,21.9532 36.3069304,25.009389 33.8644841,30.8194592 Z" id="Path-27" fill-opacity="0.15" fill="#4D97FF" mask="url(#mask-31)"></path>

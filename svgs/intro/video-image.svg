@@ -45,11 +45,11 @@
         <g transform="translate(21.000000, 13.000000)">
             <g transform="translate(47.000000, 24.000000)">
                 <mask id="mask-3" fill="white">
-                    <use xlink:href="#path-2"></use>
+                    <use xlink:href=".#path-2"></use>
                 </mask>
                 <g>
-                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
-                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href=".#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href=".#path-2"></use>
                 </g>
                 <rect id="Rectangle" fill="#4D97FF" mask="url(#mask-3)" x="0" y="139.969697" width="264" height="10.5353535"></rect>
                 <rect id="Rectangle" fill="#FFFFFF" opacity="0.2" mask="url(#mask-3)" x="0" y="139.969697" width="78" height="10.5353535"></rect>
@@ -78,24 +78,24 @@
                     <path d="M2.42995169,0.879298066 L2.42995169,20.1974253" id="Line-2-Copy-3" stroke="#E64D00" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"></path>
                     <path d="M55.078905,0.879298066 L55.078905,20.1974253" id="Line-2-Copy-4" stroke="#E64D00" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"></path>
                     <g id="Rectangle">
-                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
-                        <use fill="#E5F0FF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href=".#path-5"></use>
+                        <use fill="#E5F0FF" fill-rule="evenodd" xlink:href=".#path-5"></use>
                     </g>
                     <g id="Rectangle-Copy-2">
-                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
-                        <use fill="#E5F0FF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href=".#path-7"></use>
+                        <use fill="#E5F0FF" fill-rule="evenodd" xlink:href=".#path-7"></use>
                     </g>
                     <g id="Rectangle-Copy-3">
-                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
-                        <use fill="#E5F0FF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href=".#path-9"></use>
+                        <use fill="#E5F0FF" fill-rule="evenodd" xlink:href=".#path-9"></use>
                     </g>
                     <g id="Rectangle-Copy-4">
-                        <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
-                        <use fill="#E5F0FF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href=".#path-11"></use>
+                        <use fill="#E5F0FF" fill-rule="evenodd" xlink:href=".#path-11"></use>
                     </g>
                     <g id="Rectangle-Copy-5">
-                        <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
-                        <use fill="#E5F0FF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href=".#path-13"></use>
+                        <use fill="#E5F0FF" fill-rule="evenodd" xlink:href=".#path-13"></use>
                     </g>
                     <path d="M3.23993559,7.24267047 C3.23993559,17.7281166 14.6631631,26.2282502 28.7544283,26.2282502 C42.8456936,26.2282502 54.2689211,17.7281166 54.2689211,7.24267047 L54.2689211,2.22962275 L3.23993559,2.22962275 C3.23993559,-1.41864288 3.23993559,0.252373025 3.23993559,7.24267047 Z" id="Bottom" fill-opacity="0.1" fill="#000000"></path>
                 </g>

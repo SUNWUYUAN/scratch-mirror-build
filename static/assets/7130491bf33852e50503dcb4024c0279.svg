@@ -67,8 +67,8 @@
             <path d="M57.3188406,4.56164384 L57.3188406,8.61643836 C57.3188406,6.37703718 55.5020251,4.56164384 53.2608696,4.56164384 L16.7391304,4.56164384 C14.4979749,4.56164384 12.6811594,6.37703718 12.6811594,8.61643836 L12.6811594,4.56164384 C12.6811594,2.32224266 14.4979749,0.506849315 16.7391304,0.506849315 L53.2608696,0.506849315 C55.5020251,0.506849315 57.3188406,2.32224266 57.3188406,4.56164384 Z" id="Shape" stroke="#7C87A5" fill="#7C87A5" opacity="0.1"></path>
         </g>
         <g id="arrow">
-            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-            <use stroke="#4280D7" stroke-width="1" fill="#4C97FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href=".#path-1"></use>
+            <use stroke="#4280D7" stroke-width="1" fill="#4C97FF" fill-rule="evenodd" xlink:href=".#path-1"></use>
         </g>
     </g>
 </svg>

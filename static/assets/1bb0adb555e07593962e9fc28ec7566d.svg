@@ -8,9 +8,9 @@
     </defs>
     <g id="Extensions/Connection/Wifi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
-            <use xlink:href="#path-1"></use>
+            <use xlink:href=".#path-1"></use>
         </mask>
-        <use id="wifi" fill="#4C97FF" xlink:href="#path-1"></use>
+        <use id="wifi" fill="#4C97FF" xlink:href=".#path-1"></use>
         <g id="Color/1_Blue" mask="url(#mask-2)" fill="#575E75">
             <g id="Color/Gray">
                 <g id="Color">

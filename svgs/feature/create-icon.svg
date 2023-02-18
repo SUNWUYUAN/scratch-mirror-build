@@ -9,9 +9,9 @@
     <g id="Action-Menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Action-Menu/Actions/Surprise" transform="translate(-3.000000, -3.000000)">
             <mask id="mask-2" fill="white">
-                <use xlink:href="#path-1"></use>
+                <use xlink:href=".#path-1"></use>
             </mask>
-            <use id="surprise-icon" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <use id="surprise-icon" fill="#FFFFFF" xlink:href=".#path-1"></use>
         </g>
     </g>
 </svg>

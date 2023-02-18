@@ -35,14 +35,14 @@
                     <path d="M182.883903,14.706504 C197.037782,-27.0922322 425.474577,34.1172225 417.181382,65.067847 C408.888187,96.0184716 350.225939,64.3956615 343.657623,88.9089478 C337.089308,113.422234 482.794344,132.680133 471.700679,174.082254 C460.607014,215.484374 310.146325,200.040779 303.224471,225.873488 C296.302617,251.706198 426.457778,266.547497 415.642849,306.909363 C404.827919,347.271229 295.115968,319.572646 257.370775,309.458852 C219.625583,299.345058 14.077805,242.720897 24.9304457,202.21829 C35.7830864,161.715683 128.718282,188.989822 137,158.082031 C145.281718,127.174241 38.3139485,101.216683 48,65.067847 C57.6860515,28.9190106 253.919855,95.0032689 259.832323,72.9376398 C265.74479,50.8720106 168.730024,56.5052403 182.883903,14.706504 Z M18.1444055,158.050519 C-7.48598233,147.671097 -3.37620489,116.341117 14.4450622,113.342051 C32.2663292,110.342985 59.4800142,127.742124 59.4800142,139.07744 C59.4800142,150.412755 43.7747933,168.429941 18.1444055,158.050519 Z" id="Path-15" fill="#FFAB19"></path>
                     <g id="Editor" transform="translate(109.000000, 42.000000)">
                         <g id="Rectangle">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href=".#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href=".#path-1"></use>
                         </g>
                         <g transform="translate(0.000000, 42.000000)">
                             <mask id="mask-4" fill="white">
-                                <use xlink:href="#path-3"></use>
+                                <use xlink:href=".#path-3"></use>
                             </mask>
-                            <use id="Editor-Container" fill="#D9E3F2" xlink:href="#path-3"></use>
+                            <use id="Editor-Container" fill="#D9E3F2" xlink:href=".#path-3"></use>
                             <g id="Blocks" mask="url(#mask-4)">
                                 <g transform="translate(0.000000, 4.500000)">
                                     <path d="M0,10.5 L187.5,10.5 C189.156854,10.5 190.5,11.8431458 190.5,13.5 L190.5,178.5 L0,178.5 L0,10.5 Z" id="Workspace" stroke="none" fill="#E5F0FF"></path>
@@ -63,9 +63,9 @@
                                         <path d="M95.625,82.875 L87.375,96.375" id="Line-4-Copy" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
                                         <path d="M99.375,82.875 L94.125,91.875" id="Line-4-Copy-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
                                         <g id="Shape-Copy-16" fill-rule="nonzero">
-                                            <use fill="#4C95FF" xlink:href="#path-5"></use>
+                                            <use fill="#4C95FF" xlink:href=".#path-5"></use>
                                             <path stroke="#FFFFFF" stroke-width="2.25" d="M96.532869,76.3996479 L99.2708115,76.3996479 L100.460185,75.2085893 C100.81019,74.8580889 101.353295,74.625 101.889149,74.625 L121.365733,74.625 C122.493735,74.625 123.376801,75.5093176 123.376801,76.6373239 L123.376801,82.0880282 C123.376801,83.2160345 122.493735,84.1003521 121.365733,84.1003521 L101.975863,84.1003521 L100.786489,85.2914107 C100.436484,85.6419111 99.8933795,85.875 99.3575246,85.875 L96.446156,85.875 C95.9103011,85.875 95.3671963,85.6419111 95.0171918,85.2914107 L93.827818,84.1003521 L91.6360687,84.1003521 C90.5080666,84.1003521 89.625,83.2160345 89.625,82.0880282 L89.625,76.6373239 C89.625,75.5244956 90.6130454,74.625 91.6360687,74.625 L93.9145311,74.625 C94.450386,74.625 94.9934908,74.8580889 95.3434953,75.2085893 L96.532869,76.3996479 Z"></path>
-                                            <use stroke="#4C95FF" stroke-width="1.5" xlink:href="#path-5"></use>
+                                            <use stroke="#4C95FF" stroke-width="1.5" xlink:href=".#path-5"></use>
                                         </g>
                                         <g id="hand" transform="translate(107.000000, 76.750000)">
                                             <path d="M6.3566,11.158 C4.0926,11.158 2.1686,10.049 1.7826,8.52 C1.5776,7.712 1.2996,7.006 1.0546,6.383 C0.5356,5.061 0.0866,3.921 1.1076,3.155 C1.3356,2.985 1.5526,2.902 1.7716,2.902 C2.4246,2.902 2.6556,3.557 2.8246,4.037 C2.8296,4.052 2.8356,4.067 2.8416,4.084 C2.8116,3.97 2.7796,3.851 2.7536,3.759 C2.5456,2.999 2.1976,1.727 3.4776,1.177 C3.6706,1.093 3.8486,1.053 4.0206,1.053 C4.7136,1.053 4.9756,1.622 5.0976,2.221 C5.1656,1.412 5.4436,0.5 6.6006,0.5 C7.0856,0.5 7.3796,0.706 7.5416,0.879 C7.8056,1.16 7.9106,1.546 7.9446,1.953 C8.1536,1.482 8.4946,1.094 9.1136,1.094 C9.3076,1.094 9.5166,1.137 9.7336,1.225 C11.3216,1.862 10.2916,4.495 9.9536,5.361 C9.7726,5.823 9.8116,6.091 9.8486,6.185 C9.8536,6.135 9.9376,6.035 10.0166,5.838 C10.2526,5.241 10.7096,4.886 11.2376,4.886 C11.6076,4.886 11.9446,5.066 12.1646,5.382 C12.4546,5.798 12.4896,6.388 12.2616,7.002 C11.2956,9.604 9.0876,11.158 6.3576,11.158 L6.3566,11.158 Z" id="Fill-1" fill="#FFFFFF"></path>
@@ -86,8 +86,8 @@
                                     <g id="Category-Menu" stroke="none" stroke-width="1" fill="none" transform="translate(0.000000, 10.500000)">
                                         <rect stroke-opacity="0.05" stroke="#000000" stroke-width="1.5" fill="#FFFFFF" x="-0.75" y="-0.75" width="16.5" height="169.5"></rect>
                                         <g id="Rectangle-4">
-                                            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
-                                            <use fill="#4C97FF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href=".#path-6"></use>
+                                            <use fill="#4C97FF" fill-rule="evenodd" xlink:href=".#path-6"></use>
                                         </g>
                                         <circle id="Data" stroke-opacity="0.1" stroke="#000000" stroke-width="1.5" fill="#FF8C1A" cx="7.5" cy="93" r="3.75"></circle>
                                         <circle id="Operators" stroke-opacity="0.1" stroke="#000000" stroke-width="1.5" fill="#59C059" cx="7.5" cy="81" r="3.75"></circle>
@@ -121,13 +121,13 @@
                             <g id="Stage" mask="url(#mask-4)">
                                 <g transform="translate(195.000000, 15.000000)">
                                     <mask id="mask-9" fill="white">
-                                        <use xlink:href="#path-8"></use>
+                                        <use xlink:href=".#path-8"></use>
                                     </mask>
-                                    <use id="Stage" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                                    <use id="Stage" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href=".#path-8"></use>
                                     <mask id="mask-11" fill="white">
-                                        <use xlink:href="#path-10"></use>
+                                        <use xlink:href=".#path-10"></use>
                                     </mask>
-                                    <use id="Stage" stroke="none" fill="#575E75" fill-rule="evenodd" xlink:href="#path-10"></use>
+                                    <use id="Stage" stroke="none" fill="#575E75" fill-rule="evenodd" xlink:href=".#path-10"></use>
                                     <path d="M24.4937504,18.1532717 C25.3035748,17.9360352 25.9360352,17.3035748 26.1532717,16.4937504 L26.6482407,14.6527405 C26.883351,13.7824198 28.1180239,13.7824198 28.3517593,14.6527405 L28.8481032,16.4937504 C29.0653397,17.3035748 29.6978001,17.9360352 30.5062496,18.1532717 L32.3472595,18.6482407 C33.2175802,18.883351 33.2175802,20.1180239 32.3472595,20.3531342 L30.5062496,20.8481032 C29.6978001,21.0653397 29.0653397,21.6978001 28.8481032,22.5062496 L28.3517593,24.3472595 C28.1180239,25.2175802 26.883351,25.2175802 26.6482407,24.3472595 L26.1532717,22.5062496 C25.9360352,21.6978001 25.3035748,21.0653397 24.4937504,20.8481032 L22.6527405,20.3531342 C21.7824198,20.1180239 21.7824198,18.883351 22.6527405,18.6482407 L24.4937504,18.1532717 Z" id="Fill-1" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-11)"></path>
                                     <path d="M85.7607962,21.9289732 C87.3068246,21.5142491 88.5142491,20.3068246 88.9289732,18.7607962 L89.8739141,15.2461409 C90.3227611,13.5846197 92.6798638,13.5846197 93.1260859,15.2461409 L94.0736516,18.7607962 C94.4883757,20.3068246 95.6958003,21.5142491 97.2392038,21.9289732 L100.753859,22.8739141 C102.41538,23.3227611 102.41538,25.6798638 100.753859,26.1287107 L97.2392038,27.0736516 C95.6958003,27.4883757 94.4883757,28.6958003 94.0736516,30.2392038 L93.1260859,33.7538591 C92.6798638,35.4153803 90.3227611,35.4153803 89.8739141,33.7538591 L88.9289732,30.2392038 C88.5142491,28.6958003 87.3068246,27.4883757 85.7607962,27.0736516 L82.2461409,26.1287107 C80.5846197,25.6798638 80.5846197,23.3227611 82.2461409,22.8739141 L85.7607962,21.9289732 Z" id="Fill-1-Copy-6" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-11)"></path>
                                     <path d="M49.0955145,37.1711936 L94,90 L-8,90 L36.9044855,37.1711936 C39.7659762,33.8047339 44.8147276,33.3953756 48.1811874,36.2568664 C48.5101349,36.5364718 48.8159091,36.8422461 49.0955145,37.1711936 Z" id="Triangle" stroke="none" fill="#0EBD8C" fill-rule="evenodd" mask="url(#mask-11)"></path>
@@ -171,9 +171,9 @@
                                     <circle id="Add-Sprite-Copy" stroke-opacity="0.2" stroke="#4C97FF" stroke-width="1.5" fill="#4C97FF" fill-rule="evenodd" cx="12" cy="61.5" r="6.75"></circle>
                                     <g id="Group-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 17.000000)">
                                         <mask id="mask-13" fill="white">
-                                            <use xlink:href="#path-12"></use>
+                                            <use xlink:href=".#path-12"></use>
                                         </mask>
-                                        <use id="Stage" fill="#575E75" xlink:href="#path-12"></use>
+                                        <use id="Stage" fill="#575E75" xlink:href=".#path-12"></use>
                                         <path d="M10.1238786,7.79279839 L18.8,18 L-1.6,18 L7.07612136,7.79279839 C7.79149406,6.95118346 9.05368191,6.84884391 9.89529684,7.5642166 C9.97753372,7.63411795 10.0539773,7.71056151 10.1238786,7.79279839 Z" id="Triangle" fill="#0EBD8C" mask="url(#mask-13)"></path>
                                         <path d="M20.4247532,11.1962846 L26.2,18 L11.6,18 L17.3752468,11.1962846 C18.0900509,10.3541866 19.3521693,10.2509946 20.1942672,10.9657986 C20.277239,11.0362282 20.3543236,11.1133128 20.4247532,11.1962846 Z" id="Triangle-Copy" fill="#0EA57A" mask="url(#mask-13)"></path>
                                     </g>
@@ -198,8 +198,8 @@
                         </g>
                         <g id="Chrome">
                             <g>
-                                <use fill="#E9F1FC" fill-rule="evenodd" xlink:href="#path-14"></use>
-                                <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14"></use>
+                                <use fill="#E9F1FC" fill-rule="evenodd" xlink:href=".#path-14"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href=".#path-14"></use>
                             </g>
                             <circle id="Oval" fill-opacity="0.15" fill="#000000" cx="15" cy="12" r="3"></circle>
                             <circle id="Oval-Copy" fill-opacity="0.15" fill="#000000" cx="27" cy="12" r="3"></circle>

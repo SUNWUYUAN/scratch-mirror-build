@@ -17,8 +17,8 @@
             <g id="Step-2---Recording" transform="translate(0.000000, 42.000000)">
                 <g id="Play-/-Record-/-Stop" transform="translate(603.000000, 307.000000)">
                     <g id="stop-recording">
-                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-                        <use fill="#FF661A" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href=".#path-1"></use>
+                        <use fill="#FF661A" fill-rule="evenodd" xlink:href=".#path-1"></use>
                         <rect stroke="#E64D00" stroke-width="1" x="20.5" y="0.5" width="43" height="43" rx="4"></rect>
                     </g>
                 </g>

@@ -67,7 +67,7 @@
                 <g id="coding-cards-illustration" transform="translate(492.000000, 39.000000)">
                     <g id="card" transform="translate(390.635294, 112.788235) rotate(15.000000) translate(-390.635294, -112.788235) translate(347.341176, 55.964706)">
                         <g id="Rectangle-11">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href=".#path-1"></use>
                             <rect stroke-opacity="0.2" stroke="#000000" stroke-width="2" stroke-linejoin="square" fill="#59C059" fill-rule="evenodd" x="1" y="1" width="84.5882353" height="111.647059" rx="8"></rect>
                         </g>
                         <ellipse id="Oval" fill-opacity="0.1" fill="#000000" cx="43.5630252" cy="105.069922" rx="2.68907563" ry="2.68035516"></ellipse>
@@ -131,7 +131,7 @@
                     </g>
                     <g id="card" transform="translate(84.329412, 112.788235) rotate(-15.000000) translate(-84.329412, -112.788235) translate(41.035294, 55.964706)">
                         <g id="Rectangle-11">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href=".#path-3"></use>
                             <rect stroke-opacity="0.2" stroke="#000000" stroke-width="2" stroke-linejoin="square" fill="#9966FF" fill-rule="evenodd" x="1" y="1" width="84.5882353" height="111.647059" rx="8"></rect>
                         </g>
                         <ellipse id="Oval" fill-opacity="0.1" fill="#000000" cx="43.5630252" cy="105.069922" rx="2.68907563" ry="2.68035516"></ellipse>
@@ -237,7 +237,7 @@
                     </g>
                     <g id="card" transform="translate(352.211765, 103.588235) rotate(10.000000) translate(-352.211765, -103.588235) translate(302.964706, 38.647059)">
                         <g id="Rectangle-11">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href=".#path-5"></use>
                             <rect stroke-opacity="0.2" stroke="#000000" stroke-width="2" stroke-linejoin="square" fill="#9966FF" fill-rule="evenodd" x="1" y="1" width="96.4941176" height="127.882353" rx="8"></rect>
                         </g>
                         <ellipse id="Oval" fill-opacity="0.1" fill="#000000" cx="49.5529412" cy="120.079911" rx="3.05882353" ry="3.06326304"></ellipse>
@@ -289,7 +289,7 @@
                     </g>
                     <g id="card" transform="translate(123.012254, 103.602242) rotate(-10.000000) translate(-123.012254, -103.602242) translate(73.512254, 38.602242)">
                         <g id="Rectangle-11">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href=".#path-7"></use>
                             <rect stroke-opacity="0.2" stroke="#000000" stroke-width="2" stroke-linejoin="square" fill="#FF8C1A" fill-rule="evenodd" x="1" y="1" width="96.4941176" height="127.882353" rx="8"></rect>
                         </g>
                         <ellipse id="Oval" fill-opacity="0.1" fill="#000000" cx="49.5529412" cy="120.079911" rx="3.05882353" ry="3.06326304"></ellipse>
@@ -318,7 +318,7 @@
                     </g>
                     <g id="card" transform="translate(174.113955, 97.057454) rotate(-5.000000) translate(-174.113955, -97.057454) translate(117.613955, 23.557454)">
                         <g id="Rectangle-11">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href=".#path-9"></use>
                             <rect stroke-opacity="0.2" stroke="#000000" stroke-width="2" stroke-linejoin="square" fill="#FFBF00" fill-rule="evenodd" x="1.9961947" y="1.08715574" width="109.482353" height="144.117647" rx="8"></rect>
                         </g>
                         <path d="M12.9345063,19.8510598 C12.9345063,17.6426534 14.7173144,15.8523862 16.93842,15.8523862 L95.2363699,15.8523862 C97.4476704,15.8523862 99.2402836,17.6333566 99.2402836,19.8510598 L99.2402836,35.1509434 L12.9345063,35.1509434 L12.9345063,19.8510598 Z" id="Rectangle-12" fill-opacity="0.1" fill="#000000"></path>
@@ -328,7 +328,7 @@
                     </g>
                     <g id="card" transform="translate(295.131535, 97.101032) rotate(5.000000) translate(-295.131535, -97.101032) translate(239.131535, 23.601032)">
                         <g id="Rectangle-11">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href=".#path-11"></use>
                             <rect stroke-opacity="0.2" stroke="#000000" stroke-width="2" stroke-linejoin="square" fill="#CF63CF" fill-rule="evenodd" x="1" y="1" width="109.480003" height="144.117647" rx="8"></rect>
                         </g>
                         <ellipse id="Oval" fill-opacity="0.1" fill="#000000" cx="56.0862129" cy="135.0899" rx="3.46211191" ry="3.44617092"></ellipse>
@@ -438,7 +438,7 @@
                     </g>
                     <g id="card" transform="translate(176.329412, 11.588235)">
                         <g id="Rectangle-11">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href=".#path-13"></use>
                             <rect stroke-opacity="0.2" stroke="#000000" stroke-width="2" stroke-linejoin="square" fill="#4C97FF" fill-rule="evenodd" x="1" y="1" width="121.388235" height="160.352941" rx="8"></rect>
                         </g>
                         <path d="M14.3158613,21.6218426 C14.3158613,19.4082411 16.0968429,17.6137625 18.3138587,17.6137625 L105.840763,17.6137625 C108.048796,17.6137625 109.838761,19.4050855 109.838761,21.6218426 L109.838761,39.0566038 L14.3158613,39.0566038 L14.3158613,21.6218426 Z" id="Rectangle-12" fill-opacity="0.1" fill="#000000"></path>
